@@ -2,7 +2,7 @@
 
 ## About
 
-Hello, I'm Catelinn, I have a Master Business Administration degree with focus on IT. I'm actively persuing the career change from 15+ years marketing/project management field to data analysis.
+Hello, I'm Catelinn, I have a Master Business Administration degree with focus on IT. I'm actively seeking career change from 15+ years of marketing and project management fields to data analysis.
 
 ## Projects
 
