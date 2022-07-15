@@ -2,7 +2,12 @@
 
 ## About
 
-Hello, I'm Catelinn, I have a Master Business Administration degree with focus on IT. I'm actively seeking career change from 15+ years of marketing and project management fields to data analysis.
+Hello, I'm Catelinn, I’m looking to depart from more than 15 years of professional experience in marketing and project management roles to pursue career change to Data Analyst position. 
+
+I have postgraduate background with exposure to management science and database skills. Meanwhile, I have self-studied important skills for data analysis, e.g., Statistics, Python, Visualization and SQL. I also have working knowledge of advanced Excel and Power BI.
+
+In this profolio, I'd showcase the study notes I took while learning the new skills, the projects I have ever done, as well as online certificates acquired.
+
 
 ## Projects
 
