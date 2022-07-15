@@ -9,7 +9,21 @@ I have postgraduate background with exposure to management science and database 
 In this profolio, I'd showcase the study notes I took while learning the new skills, the projects I have ever done, as well as the relevant certificates acquired.
 
 
-## Projects
+## Project Repositories
+
+[A command line program written with Python for US Bikeshare Data Exploration](https://github.com/catelinn/bikeshare_cli2)
+
+
+
+### Option Trading App Project
+
+
+[Trading_option (in development)](https://github.com/catelinn/trading_options)
+
+In this project, I plan to develop an app to download realtime option data using TDAmeritrade API and store it in local database. Then I will backtest varied option trading strategies recommended online. Also I have completed a script (`taSignal.py`) to scrape the technical analysis signals from www.investing.com for later use in strategies that take into account of TA signals.
+
+
+# Other Projects
 
 ### A Job Search Website Scrapper
 
@@ -19,13 +33,6 @@ In this project, I have developed a scraper that extract key information about t
 
 **Result:** Job data saved in `.csv` file.
 
-
-### Option Trading App Project
-
-
-[Trading_option (in development)](https://github.com/catelinn/trading_options)
-
-In this project, I plan to develop an app to download realtime option data using TDAmeritrade API and store it in local database. Then I will backtest varied option trading strategies recommended online. Also I have completed a script (`taSignal.py`) to scrape the technical analysis signals from www.investing.com for later use in strategies that take into account of TA signals.
 
 
 # Certificates
