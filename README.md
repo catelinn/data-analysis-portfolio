@@ -2,7 +2,7 @@
 
 ## About
 
-Hello, I'm Catelinn, I’m looking to depart from more than 15 years of professional experience in marketing and project management roles to pursue career change to Data Analyst position. 
+Hello, I'm Catelinn, I’m looking to depart from more than 15 years of professional experience in marketing and project management roles to pursue a new career in Data Analyst position. 
 
 I have postgraduate background with exposure to management science and database skills. Meanwhile, I have self-studied the important skills for data analysis, including Statistics, Python, Visualization and SQL. I also have working knowledge of advanced Excel and Power BI.
 
