@@ -11,7 +11,9 @@ In this profolio, I'd showcase the study notes I took while learning the new ski
 
 ## Project Repositories
 
-[A command line program written with Python for US Bikeshare Data Exploration](https://github.com/catelinn/bikeshare_cli2)
+[US Bikeshare Data Exploration in Command Line](https://github.com/catelinn/bikeshare_cli2)
+
+This is a a command line application developed in Python, which allows user to explore US bikeshare data provided in terminal. This is a coursework project required for the completion of Udacity Programming for Data Science course.  
 
 
 
