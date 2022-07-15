@@ -6,8 +6,6 @@ Hello, I'm Catelinn, I’m looking to depart from more than 15 years of professi
 
 I have postgraduate background with exposure to management science and database skills. Meanwhile, I have self-studied the important skills for data analysis, including Statistics, Python, Visualization and SQL. I also have working knowledge of advanced Excel and Power BI.
 
-In this profolio, I'd showcase the study notes I took while learning the new skills, the projects I have ever done, as well as the relevant certificates acquired.
-
 
 ## Project Repositories
 
