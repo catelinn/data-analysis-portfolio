@@ -22,7 +22,7 @@ This is a a command line application developed in Python, which allows user to e
 
 [Trading_option (in development)](https://github.com/catelinn/trading_options)
 
-In this project, I plan to develop an app to download realtime option data using TDAmeritrade API and store it in local database. Then I will backtest varied option trading strategies recommended online. Also I have completed a script (`taSignal.py`) to scrape the technical analysis signals from www.investing.com for later use in strategies that take into account of TA signals.
+In this project, I plan to develop an app to download realtime option data using TDAmeritrade API and store it in local database. Then I will backtest varied option trading strategies. Currently I have completed `taSignal.py` to scrape the technical analysis signals from www.investing.com for later use in those strategies that take into account of TA signals. Also I have tested the script that connects to TDA API and downloads realtime option data.
 
 
 # Other Projects
