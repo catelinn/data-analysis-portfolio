@@ -27,7 +27,7 @@ In this project, I plan to develop an app to download realtime option data using
 
 ### A Job Search Website Scrapper
 
-[web_scraping_Indeed_jobs.ipynb](https://github.com/catelinn/data-analysis-portfolio/tree/master/projects/web_scraping_Indeed_Jobs.ipynb)
+[web_scraping_Indeed_jobs.ipynb](https://github.com/catelinn/data-analysis-portfolio/tree/master/projects/web%20scraper%20for%20indeed%20jobs)
 
 In this project, I have developed a scraper that extract key information about the jobs found on [www.indeed.com](www.indeed.com) based on cutomizable search keyword and location. It involves the following step: inspect the website to decide the elements to work with; scrape the HTML using `requests`; parse the data from the result using `beautifulSoup`; repeat the process for multiple pages; and then generalize the scraper for generals search.
 
