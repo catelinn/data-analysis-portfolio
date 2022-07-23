@@ -6,7 +6,8 @@ Hello, I'm Catelinn, I’m looking to depart from more than 15 years of professi
 
 I have postgraduate background with exposure to management science and database skills. Meanwhile, I have self-studied the essential skills for data analysis, including statistics, Python, Visualization and SQL. I am adept at working with Excel and Power BI.
 
-I’m an analytical keen learner, astute in finding best available solutions. I’m also a team player who is adept at communication with all level so stakeholders, technical or non-technical.
+I’m a keen learner, analytical-minded, astute in finding best available solutions. I’m also a team player who is adept at communication with all levels of stakeholders, technical or non-technical.![image](https://user-images.githubusercontent.com/12291211/180625562-c024ea07-542f-4df9-8f11-832630ac452b.png)
+
 
 
 ## Project Repositories
