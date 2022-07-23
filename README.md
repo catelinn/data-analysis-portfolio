@@ -33,7 +33,11 @@ In this project, I have developed a scraper that extract key information about t
 
 **Result:** Job data saved in `.csv` file.
 
+### Old Data Cleaning and Wrangling Projects
 
+[Data Cleaning and Wrangling Projects done for my old job](https://github.com/catelinn/data-analysis-portfolio/tree/master/projects/data%20cleaning%20and%20wrangling%20at%20old%20job)
+
+I used to work for Unitalen, the US branch of a leading IP law firm in China. In that job, I was handed client contact and cases datasets for all sorts of reporting purposes, however, most of them have a lot of fixup required. In order to get out of the tedious manual process of clearning and transforming the data, I self studied Python to automate the the processes. The scripts in this folder demonstrates those works done at my early stage of self study. 
 
 # Certificates
 
