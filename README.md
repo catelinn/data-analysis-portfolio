@@ -1,10 +1,12 @@
 # Data Analysis Portfolio
 
-## About
+## About me
 
 Hello, I'm Catelinn, I’m looking to depart from more than 15 years of professional experience in marketing and project management roles to pursue a new career in Data Analyst position. 
 
-I have postgraduate background with exposure to management science and database skills. Meanwhile, I have self-studied the important skills for data analysis, including Statistics, Python, Visualization and SQL. I also have working knowledge of advanced Excel and Power BI.
+I have postgraduate background with exposure to management science and database skills. Meanwhile, I have self-studied the essential skills for data analysis, including statistics, Python, Visualization and SQL. I am adept at working with Excel and Power BI.
+
+I’m an analytical keen learner, astute in finding best available solutions. I’m also a team player who is adept at communication with all level so stakeholders, technical or non-technical.
 
 
 ## Project Repositories
@@ -37,7 +39,7 @@ In this project, I have developed a scraper that extract key information about t
 
 [Data Cleaning and Wrangling Projects done for my old job](https://github.com/catelinn/data-analysis-portfolio/tree/master/projects/data%20cleaning%20and%20wrangling%20at%20old%20job)
 
-I used to work for Unitalen, the US branch of a leading IP law firm in China. In that job, I was handed client contact and cases datasets for all sorts of reporting purposes, however, most of them have a lot of fixup required. In order to get out of the tedious manual process of clearning and transforming the data, I self studied Python to automate the processes. The scripts in this folder demonstrates how I have utilized data validation tools, such as regular expression and fuzzy matching to speed up the cleaning process, and how I transformed the datasets with Pandas library to get tidy data.
+I used to work for a US branch of a leading IP law firm in China. In that job, I was handed client contact and cases datasets for all sorts of reporting purposes, however, most of them have a lot of fixup required. In order to get out of the tedious manual process of clearning and transforming the data, I self studied Python to automate the processes. The scripts in this folder demonstrates how I have utilized data validation tools, such as regular expression and fuzzy matching to speed up the cleaning process, and how I transformed the datasets with Pandas library to get tidy data.
 
 # Certificates
 
