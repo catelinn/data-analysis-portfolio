@@ -43,7 +43,7 @@ I used to work at the US office of an IP law firm head-quartered in China. In th
 
 [Trading_option (in development)](https://github.com/catelinn/trading_options)
 
-In this project, I plan to develop an app to download realtime option data using TDAmeritrade API and store it in local database. Then I will backtest varied option trading strategies. Currently I have completed `taSignal.py` to scrape the technical analysis signals from www.investing.com for later use in those strategies that take into account of TA signals. Also I have tested the script that connects to TDA API and downloads realtime option data.
+In this project, I plan to develop an app to download realtime option data using TDAmeritrade API and store it in local database. Then I will backtest varied option trading strategies. Currently I have completed `taSignal.py` to scrape the technical analysis signals from www.investing.com for later use. Also I have wrote part of the `app/tda/streaming.py` script that successfully connects to TDA API and downloads option data.
 
 
 
