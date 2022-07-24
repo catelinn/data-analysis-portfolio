@@ -11,7 +11,10 @@ I’m a keen learner, analytical-minded, astute in finding best available soluti
 
 # Projects
 
-## Data Analysis Related
+## Data Analysis Projects
+
+
+### A Command Line App developed in Python for EDA
 
 [US Bikeshare Data Exploration in Command Line](https://github.com/catelinn/bikeshare_cli2)
 
@@ -26,6 +29,7 @@ In this project, I have developed a scraper that extract key information about t
 
 **Result:** Job data saved in `.csv` file.
 
+
 ### Old Data Cleaning and Wrangling Projects
 
 [Data Cleaning and Wrangling Projects done for my old job](https://github.com/catelinn/data-analysis-portfolio/tree/master/projects/data%20cleaning%20and%20wrangling%20at%20old%20job)
@@ -38,7 +42,6 @@ I used to work at the US office of an IP law firm head-quartered in China. In th
 
 
 ### Option Trading App Project
-
 
 [Trading_option (in development)](https://github.com/catelinn/trading_options)
 
