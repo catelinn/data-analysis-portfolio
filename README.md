@@ -1,10 +1,12 @@
 # Data Analysis Portfolio
 
-## About
+## About me
 
-Hello, I'm Catelinn, I’m looking to depart from more than 15 years of professional experience in marketing and project management roles to pursue a new career in Data Analyst position. 
+Hello, I'm Catelinn, I’m looking to depart from more than 15 years of professional experience in marketing and project management roles to pursue a new career in Data Analysis. 
 
-I have postgraduate background with exposure to management science and database skills. Meanwhile, I have self-studied the important skills for data analysis, including Statistics, Python, Visualization and SQL. I also have working knowledge of advanced Excel and Power BI.
+I have postgraduate background with exposure to management science and database skills. Meanwhile, I have self-studied the essential skills for data analysis, including statistics, Python, Visualization and SQL. In addition, I have extensive workinig experience in Excel and working knowledge of Power BI.
+
+I’m a keen learner, analytical-minded, astute in finding best available solutions. I’m also a team player who is adept at communication with all levels of stakeholders, technical or non-technical. 
 
 
 ## Project Repositories
@@ -27,13 +29,17 @@ In this project, I plan to develop an app to download realtime option data using
 
 ### A Job Search Website Scrapper
 
-[web_scraping_Indeed_jobs.ipynb](https://github.com/catelinn/data-analysis-portfolio/tree/master/projects/web_scraping_Indeed_Jobs.ipynb)
+[web_scraping_Indeed_jobs.ipynb](https://github.com/catelinn/data-analysis-portfolio/tree/master/projects/web%20scraper%20for%20indeed%20jobs)
 
 In this project, I have developed a scraper that extract key information about the jobs found on [www.indeed.com](www.indeed.com) based on cutomizable search keyword and location. It involves the following step: inspect the website to decide the elements to work with; scrape the HTML using `requests`; parse the data from the result using `beautifulSoup`; repeat the process for multiple pages; and then generalize the scraper for generals search.
 
 **Result:** Job data saved in `.csv` file.
 
+### Old Data Cleaning and Wrangling Projects
 
+[Data Cleaning and Wrangling Projects done for my old job](https://github.com/catelinn/data-analysis-portfolio/tree/master/projects/data%20cleaning%20and%20wrangling%20at%20old%20job)
+
+I used to work at the US office of an IP law firm head-quartered in China. In that job, I was handed client contacts and cases datasets for all sorts of reporting purposes, most of them reuqire a lot of fixups. In order to get out of the tedious manual process of clearning and transforming the data, I self studied Python to automate the processes. The scripts in this folder demonstrates how I have utilized validation tools, such as regular expression and fuzzy matching to speed up the cleaning process, and how I transformed the datasets with Pandas library to get tidy data for analysis.
 
 # Certificates
 
