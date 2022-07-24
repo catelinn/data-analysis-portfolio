@@ -9,23 +9,12 @@ I have postgraduate background with exposure to management science and database 
 I’m a keen learner, analytical-minded, astute in finding best available solutions. I’m also a team player who is adept at communication with all levels of stakeholders, technical or non-technical. 
 
 
-## Project Repositories
+## Data Analysis Related
 
 [US Bikeshare Data Exploration in Command Line](https://github.com/catelinn/bikeshare_cli2)
 
-This is a a command line application developed in Python, which allows user to explore US bikeshare data provided in terminal. This is a coursework project required for the completion of Udacity Programming for Data Science course.  
+This is a a command line application developed in Python, which allows user to explore US bikeshare data in terminal. This is a coursework project required for the completion of Udacity Programming for Data Science course.  
 
-
-
-### Option Trading App Project
-
-
-[Trading_option (in development)](https://github.com/catelinn/trading_options)
-
-In this project, I plan to develop an app to download realtime option data using TDAmeritrade API and store it in local database. Then I will backtest varied option trading strategies. Currently I have completed `taSignal.py` to scrape the technical analysis signals from www.investing.com for later use in those strategies that take into account of TA signals. Also I have tested the script that connects to TDA API and downloads realtime option data.
-
-
-# Other Projects
 
 ### A Job Search Website Scrapper
 
@@ -40,6 +29,21 @@ In this project, I have developed a scraper that extract key information about t
 [Data Cleaning and Wrangling Projects done for my old job](https://github.com/catelinn/data-analysis-portfolio/tree/master/projects/data%20cleaning%20and%20wrangling%20at%20old%20job)
 
 I used to work at the US office of an IP law firm head-quartered in China. In that job, I was handed client contacts and cases datasets for all sorts of reporting purposes, most of them reuqire a lot of fixups. In order to get out of the tedious manual handling of data cleaning and transofmration with Excel, I used Python instead to automate the processes. 
+
+
+
+## Other Project Repositories
+
+
+### Option Trading App Project
+
+
+[Trading_option (in development)](https://github.com/catelinn/trading_options)
+
+In this project, I plan to develop an app to download realtime option data using TDAmeritrade API and store it in local database. Then I will backtest varied option trading strategies. Currently I have completed `taSignal.py` to scrape the technical analysis signals from www.investing.com for later use in those strategies that take into account of TA signals. Also I have tested the script that connects to TDA API and downloads realtime option data.
+
+
+
 
 # Certificates
 
