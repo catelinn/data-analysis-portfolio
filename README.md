@@ -32,7 +32,7 @@ In this project, I have developed a scraper that extract key information about t
 
 [Data Cleaning and Wrangling Projects done for my old job](https://github.com/catelinn/data-analysis-portfolio/tree/master/projects/data%20cleaning%20and%20wrangling%20at%20old%20job)
 
-I used to work at the US office of an IP law firm head-quartered in China. In that job, I was handed client contacts and cases datasets for all sorts of reporting purposes, most of them reuqire a lot of fixups. In order to get out of the tedious manual handling of data cleaning and transofmration with Excel, I used Python instead to automate the processes. 
+I used to work at the US office of an IP law firm head-quartered in China. In that job, I was handed client contacts and cases datasets for all sorts of reporting purposes, most of them require a lot of fixups. In order to get out of the tedious manual data cleaning and transofmration with Excel, I used Python instead to automate the processes. 
 
 
 
