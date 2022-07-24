@@ -1,6 +1,4 @@
-# Data Analysis Portfolio
-
-## About me
+# About me
 
 Hello, I'm Catelinn, I’m looking to depart from more than 15 years of professional experience in marketing and project management roles to pursue a new career in Data Analysis. 
 
