@@ -2,7 +2,7 @@
 
 Hello, I'm Catelinn, I’m looking to depart from more than 15 years of professional experience in marketing and project management roles to pursue a new career in Data Analysis. 
 
-I have postgraduate background with exposure to management science and database skills. Meanwhile, I have self-studied the essential skills for data analysis, including statistics, Python, Visualization and SQL. In addition, I have extensive workinig experience in Excel and working knowledge of Power BI.
+I have postgraduate background with exposure to management science and database skills. Meanwhile, I have self-studied the essential skills for data analysis, including statistics, Python, Visualization and SQL. In addition, I have extensive workinig experience with Excel and working knowledge of Power BI.
 
 I’m a keen learner, analytical-minded, astute in finding best available solutions. I’m also a team player who is adept at communication with all levels of stakeholders, technical or non-technical. 
 
