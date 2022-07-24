@@ -9,6 +9,8 @@ I have postgraduate background with exposure to management science and database 
 I’m a keen learner, analytical-minded, astute in finding best available solutions. I’m also a team player who is adept at communication with all levels of stakeholders, technical or non-technical. 
 
 
+# Projects
+
 ## Data Analysis Related
 
 [US Bikeshare Data Exploration in Command Line](https://github.com/catelinn/bikeshare_cli2)
