@@ -7,9 +7,8 @@ I have postgraduate background with exposure to management science and database 
 I’m a keen learner, analytical-minded, astute in finding best available solutions. I’m also a team player who is adept at communication with all levels of stakeholders, technical or non-technical. 
 
 
-# Projects
 
-## Data Analysis Projects
+# Data Analysis Projects
 
 
 ### A Command Line App developed in Python for EDA
@@ -36,7 +35,7 @@ I used to work at the US office of an IP law firm head-quartered in China. In th
 
 
 
-## Other Project Repositories
+# Other Project Repositories
 
 
 ### Option Trading App Project
