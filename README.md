@@ -6,7 +6,7 @@ I have extensive experience in marketing, business administration and project ma
 - Master’s degree with exposure to IT and management science, which covers methods and models for forecasting and optimization.
 - Data analysis skills, including probability and statistics, Python, Visualization and SQL. I’m also an advanced user of Excel for data management and reporting. 
 - Excellent communication and coordination skills with all levels of stakeholders, technical or non-technical.
-![image](https://user-images.githubusercontent.com/12291211/181106080-dbfdd3f8-aa92-480d-a728-35686c50bfc8.png)
+
 
 
 
