@@ -1,11 +1,16 @@
 # About me
 
-I have extensive experience in marketing, business administration and project management roles. But I’m looking to focus my skills and knowledge on analyst position where my analytical mind and hands-on personality can shine. 
+I have experience in marketing, business administration and project management roles. But I’m looking to focus my skills and knowledge on analyst position where my analytical and hands-on mentality can shine. 
 
 ##### RELEVANT QUALIFICATIONS
-- Master’s degree with exposure to IT and management science, which covers methods and models for forecasting and optimization.
-- Data analysis skills, including probability and statistics, Python, Visualization and SQL. I’m also an advanced user of Excel for data management and reporting. 
-- Excellent communication and coordination skills with all levels of stakeholders, technical or non-technical.
+
+- Master’s degree with exposure to IT and management science, which covers database management, business consulting, research methods and modeling for forecasting and optimization.
+
+- Solid knowledge of data analysis topics, such as probability and statistics, hypothesis testing and linear regression. 
+
+- Proficient in conducting exporatory data analysis and visualization using Python, SQL, Excel and Power BI.
+
+- Excellent communicator and coordinator that works well with all levels of stakeholders, technical or non-technical.
 
 
 
