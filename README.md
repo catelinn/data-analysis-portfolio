@@ -20,24 +20,18 @@ I have extensive experience in marketing, business administration and project ma
 This is a a command line application developed in Python, which allows user to explore US bikeshare data in terminal. This is a coursework project required for the completion of Udacity Programming for Data Science course.  
 
 
-### A Job Search Website Scrapper
 
-[web_scraping_Indeed_jobs.ipynb](https://github.com/catelinn/data-analysis-portfolio/tree/master/projects/web%20scraper%20for%20indeed%20jobs)
+### SQL project: Analysis of a DVD Rental Business
 
-In this project, I have developed a scraper that extract key information of the jobs found on [www.indeed.com](www.indeed.com) based on cutomizable search keyword and location. It involves the following step: inspect the website to decide the elements to work with; scrape the HTML using `requests`; parse the data from the result using `beautifulSoup`; repeat the process for multiple pages; and then generalize the scraper for generals search.
+[Analysis of a DVD rental business using SQL](https://github.com/catelinn/data-analysis-portfolio/blob/master/SQL%20Projects/Analysis-of-a-DVD-Rental-Business-Using-SQL.ipynb)
 
-**Result:** Job data saved in `.csv` file.
-
-
-### Old Data Cleaning and Wrangling Projects
-
-[Data Cleaning and Wrangling Projects done for my old job](https://github.com/catelinn/data-analysis-portfolio/tree/master/projects/data%20cleaning%20and%20wrangling%20at%20old%20job)
-
-I used to work at the US office of an IP law firm head-quartered in China. In that job, I was handed client contacts and cases datasets for all sorts of reporting purposes, most of them require a lot of fixups. I used Python to automate the data cleaning and transformation processes. The works saved in this folder contain only the codes and limited data that won't disclose the non-private client information and market performance of my previous employer.
+This project is completed using SQL and Pandas, Matplotlib libraries. I manage to explore the marketing and financial performance of this fictional DVD rental business by following the main EDA workflow: prepare questions and data, process data, analyze data and make visualization to tell the story of the data. I have also included a multiple linear regression study to estimate the outstanding balance of an unpaid rental. 
 
 
 
-# Other Project Repositories
+
+
+# Other Projects
 
 
 ### Option Trading App Project
@@ -46,6 +40,12 @@ I used to work at the US office of an IP law firm head-quartered in China. In th
 
 In this project, I plan to develop an app to download realtime option data using TDAmeritrade API and store it in local database. Then I will backtest varied option trading strategies. Currently I have completed `taSignal.py` to scrape the technical analysis signals from www.investing.com for later use. Also I have wrote part of the `app/tda/streaming.py` script that successfully connects to TDA API and downloads option data.
 
+
+### Old Data Cleaning and Wrangling Projects
+
+[Data Cleaning and Wrangling Projects done for my old job](https://github.com/catelinn/data-analysis-portfolio/tree/master/projects/data%20cleaning%20and%20wrangling%20at%20old%20job)
+
+I used to work at a branch office of an IP law firm. In that job, I was handed client contacts and cases datasets for all sorts of reporting purposes, most of them require a lot of fixups. I used Python to automate the data cleaning and data transformation processes. The works saved in this folder contain only the codes and limited data that won't disclose the non-private client information and market performance of my previous employer.
 
 
 
