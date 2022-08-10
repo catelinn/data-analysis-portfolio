@@ -5,11 +5,8 @@ I have experience in marketing, business administration and project management r
 ##### RELEVANT QUALIFICATIONS
 
 - Master’s degree with exposure to IT and management science, which covers database management, business consulting, research methods and modeling for forecasting and optimization.
-
 - Solid knowledge of data analysis topics, such as probability and statistics, hypothesis testing and linear regression. 
-
-- Proficient in conducting exporatory data analysis and visualization using Python, SQL, Excel and Power BI.
-
+- Proficient in exporatory data analysis (EDA) and visualization using Python, SQL, Excel and Power BI.
 - Excellent communicator and coordinator that works well with all levels of stakeholders, technical or non-technical.
 
 
@@ -26,9 +23,9 @@ This is a a command line application developed in Python, which allows user to e
 
 
 
-### SQL project: Analysis of a DVD Rental Business
+### SQL project: An Analysis of a DVD Rental Business
 
-[Analysis of a DVD rental business using SQL](https://github.com/catelinn/data-analysis-portfolio/blob/master/SQL%20Projects/Analysis-of-a-DVD-Rental-Business-Using-SQL.ipynb)
+[An Analysis of a DVD rental business using SQL](https://github.com/catelinn/data-analysis-portfolio/blob/master/SQL%20Projects/An-Analysis-of-DVD-Rental-Business-Using-SQL.ipynb)
 
 This project is completed using SQL and Pandas, Matplotlib libraries. I manage to explore the marketing and financial performance of this fictional DVD rental business by following the main EDA workflow: prepare questions and data, process data, analyze data and make visualization to tell the story of the data. I have also included a multiple linear regression study to estimate the pastdue amount of unpaid rentals. 
 
