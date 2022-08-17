@@ -27,7 +27,7 @@ This is a a command line application developed in Python, which allows user to e
 
 [An Analysis of a DVD rental business using SQL](https://github.com/catelinn/data-analysis-portfolio/blob/master/SQL%20Projects/An-Analysis-of-DVD-Rental-Business-Using-SQL.ipynb)
 
-This project is completed using SQL and Pandas, Matplotlib libraries. I manage to explore the marketing and financial performance of this fictional DVD rental business by following the main EDA workflow: prepare questions and data, process data, analyze data and make visualization to tell the story of the data. I have also included a multiple linear regression study to estimate the pastdue amount of unpaid rentals. 
+This project is completed using SQL and Pandas, Matplotlib libraries. I explored the marketing and financial performance of a fictional DVD rental business by following the main EDA workflow: prepare questions and data, process data, analyze data and make visualization to tell the story of the data. I have also included a multiple linear regression study to estimate the pastdue amount of unpaid rentals. 
 
 
 
