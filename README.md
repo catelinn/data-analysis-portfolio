@@ -38,7 +38,7 @@ This project is completed using SQL and Pandas, Matplotlib libraries. I explored
 
 [Scraping TA Signal from invesiting.com using Python](https://github.com/catelinn/trading_options)
 
-In this cript, I scrape the technical analysis signals from www.investing.com using BeautifulSoup 4.0 
+The script is used to scrape the technical analysis signals from www.investing.com. In the script, I have used `Requests` library to generate dynamic response html page and `BeautifulSoup` to parse the responses. The scraped TA signals are then appended to the previous result in the local data file.
 
 
 ### Old Data Cleaning and Wrangling Projects
