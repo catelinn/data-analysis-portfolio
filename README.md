@@ -36,7 +36,7 @@ This project is completed using SQL and Pandas, Matplotlib libraries. I explored
 
 ### Scraping Technical Analysis Signal using Python
 
-[Scraping TA Signal from invesiting.com using Python](https://github.com/catelinn/trading_options)
+[Scraping TA Signal from invesiting.com using Python]([https://github.com/catelinn/trading_options](https://github.com/catelinn/data-analysis-portfolio/tree/master/Others/web%20scraping)
 
 The script is used to scrape the technical analysis signals from www.investing.com. In the script, I have used `Requests` library to generate dynamic response html page and `BeautifulSoup` to parse the responses. The scraped TA signals are then appended to the previous result in the local data file.
 
