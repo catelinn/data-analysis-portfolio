@@ -34,11 +34,11 @@ This project is completed using SQL and Pandas, Matplotlib libraries. I explored
 # Other Projects
 
 
-### Option Trading App Project
+### Scraping Technical Analysis Signal using Python
 
-[Trading_option (in development)](https://github.com/catelinn/trading_options)
+[Scraping TA Signal from invesiting.com using Python](https://github.com/catelinn/trading_options)
 
-In this project, I plan to develop an app to download realtime option data using TDAmeritrade API and store it in local database. Then I will backtest varied option trading strategies. Currently I have completed `taSignal.py` to scrape the technical analysis signals from www.investing.com for later use. Also I have wrote part of the `app/tda/streaming.py` script that successfully connects to TDA API and downloads option data.
+In this cript, I scrape the technical analysis signals from www.investing.com using BeautifulSoup 4.0 
 
 
 ### Old Data Cleaning and Wrangling Projects
