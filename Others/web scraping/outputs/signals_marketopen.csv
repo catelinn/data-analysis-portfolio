@@ -1,0 +1,429 @@
+,pair,period,signal,date
+0,SPX,daily,Strong Sell,2022-03-04 06:31:00-08:00
+1,SPX,weekly,Strong Sell,2022-03-04 06:31:00-08:00
+2,DJA,daily,Strong Sell,2022-03-04 06:31:00-08:00
+3,DJA,weekly,Strong Sell,2022-03-04 06:31:00-08:00
+4,SPX,daily,Strong Sell,2022-03-07 06:30:00-08:00
+5,SPX,weekly,Strong Sell,2022-03-07 06:30:00-08:00
+6,DJA,daily,Strong Sell,2022-03-07 06:30:00-08:00
+7,DJA,weekly,Strong Sell,2022-03-07 06:30:00-08:00
+8,SPX,daily,Strong Sell,2022-03-09 06:30:00-08:00
+9,SPX,weekly,Strong Sell,2022-03-09 06:30:00-08:00
+10,DJA,daily,Strong Sell,2022-03-09 06:30:00-08:00
+11,DJA,weekly,Strong Sell,2022-03-09 06:30:00-08:00
+12,SPX,daily,Strong Sell,2022-03-10 06:30:00-08:00
+13,SPX,weekly,Strong Sell,2022-03-10 06:30:00-08:00
+14,DJA,daily,Strong Sell,2022-03-10 06:30:00-08:00
+15,DJA,weekly,Strong Sell,2022-03-10 06:30:00-08:00
+16,SPX,daily,Strong Sell,2022-03-11 06:31:00-08:00
+17,SPX,weekly,Strong Sell,2022-03-11 06:31:00-08:00
+18,DJA,daily,Strong Sell,2022-03-11 06:31:00-08:00
+19,DJA,weekly,Strong Sell,2022-03-11 06:31:00-08:00
+20,SPX,daily,Strong Sell,2022-03-14 06:30:00-07:00
+21,SPX,weekly,Strong Sell,2022-03-14 06:30:00-07:00
+22,DJA,daily,Strong Sell,2022-03-14 06:30:00-07:00
+23,DJA,weekly,Strong Sell,2022-03-14 06:30:00-07:00
+24,SPX,daily,Strong Sell,2022-03-15 06:31:00-07:00
+25,SPX,weekly,Strong Sell,2022-03-15 06:31:00-07:00
+26,DJA,daily,Sell,2022-03-15 06:31:00-07:00
+27,DJA,weekly,Strong Sell,2022-03-15 06:31:00-07:00
+28,SPX,daily,Neutral,2022-03-16 06:32:00-07:00
+29,SPX,weekly,Strong Sell,2022-03-16 06:32:00-07:00
+30,DJA,daily,Neutral,2022-03-16 06:32:00-07:00
+31,DJA,weekly,Sell,2022-03-16 06:32:00-07:00
+SPX,daily,Strong Buy,2022-03-18 06:34:00-07:00
+SPX,weekly,Neutral,2022-03-18 06:34:00-07:00
+DJA,daily,Buy,2022-03-18 06:34:00-07:00
+DJA,weekly,Neutral,2022-03-18 06:34:00-07:00
+SPX,daily,Strong Buy,2022-03-22 06:34:00-07:00
+SPX,weekly,Neutral,2022-03-22 06:34:00-07:00
+DJA,daily,Strong Buy,2022-03-22 06:34:00-07:00
+DJA,weekly,Neutral,2022-03-22 06:34:00-07:00
+SPX,daily,Strong Buy,2022-03-23 06:34:00-07:00
+SPX,weekly,Neutral,2022-03-23 06:34:00-07:00
+DJA,daily,Strong Buy,2022-03-23 06:34:00-07:00
+DJA,weekly,Neutral,2022-03-23 06:34:00-07:00
+SPX,daily,Strong Buy,2022-03-24 06:34:00-07:00
+SPX,weekly,Neutral,2022-03-24 06:34:00-07:00
+DJA,daily,Strong Buy,2022-03-24 06:34:00-07:00
+DJA,weekly,Neutral,2022-03-24 06:34:00-07:00
+SPX,daily,Strong Buy,2022-03-28 06:34:00-07:00
+SPX,weekly,Strong Buy,2022-03-28 06:34:00-07:00
+DJA,daily,Strong Buy,2022-03-28 06:34:00-07:00
+DJA,weekly,Strong Buy,2022-03-28 06:34:00-07:00
+SPX,daily,Strong Buy,2022-03-29 06:34:00-07:00
+SPX,weekly,Strong Buy,2022-03-29 06:34:00-07:00
+DJA,daily,Strong Buy,2022-03-29 06:34:00-07:00
+DJA,weekly,Strong Buy,2022-03-29 06:34:00-07:00
+SPX,daily,Strong Buy,2022-03-30 06:34:00-07:00
+SPX,weekly,Strong Buy,2022-03-30 06:34:00-07:00
+DJA,daily,Strong Buy,2022-03-30 06:34:00-07:00
+DJA,weekly,Strong Buy,2022-03-30 06:34:00-07:00
+SPX,daily,Strong Buy,2022-03-31 06:34:00-07:00
+SPX,weekly,Strong Buy,2022-03-31 06:34:00-07:00
+DJA,daily,Strong Buy,2022-03-31 06:34:00-07:00
+DJA,weekly,Strong Buy,2022-03-31 06:34:00-07:00
+SPX,daily,Strong Buy,2022-04-01 06:34:00-07:00
+SPX,weekly,Strong Buy,2022-04-01 06:34:00-07:00
+DJA,daily,Strong Buy,2022-04-01 06:34:00-07:00
+DJA,weekly,Strong Buy,2022-04-01 06:34:00-07:00
+SPX,daily,Strong Buy,2022-04-04 06:35:00-07:00
+SPX,weekly,Strong Buy,2022-04-04 06:35:00-07:00
+DJA,daily,Neutral,2022-04-04 06:35:00-07:00
+DJA,weekly,Buy,2022-04-04 06:35:00-07:00
+SPX,daily,Strong Buy,2022-04-05 06:34:00-07:00
+SPX,weekly,Strong Buy,2022-04-05 06:34:00-07:00
+DJA,daily,Strong Buy,2022-04-05 06:34:00-07:00
+DJA,weekly,Strong Buy,2022-04-05 06:34:00-07:00
+SPX,daily,Sell,2022-04-06 06:34:00-07:00
+SPX,weekly,Strong Buy,2022-04-06 06:34:00-07:00
+DJA,daily,Strong Sell,2022-04-06 06:34:00-07:00
+DJA,weekly,Neutral,2022-04-06 06:34:00-07:00
+SPX,daily,Strong Sell,2022-04-07 06:34:00-07:00
+SPX,weekly,Buy,2022-04-07 06:34:00-07:00
+DJA,daily,Strong Sell,2022-04-07 06:34:00-07:00
+DJA,weekly,Neutral,2022-04-07 06:34:00-07:00
+SPX,daily,Neutral,2022-04-08 06:34:00-07:00
+SPX,weekly,Strong Buy,2022-04-08 06:35:00-07:00
+DJA,daily,Neutral,2022-04-08 06:34:00-07:00
+DJA,weekly,Buy,2022-04-08 06:34:00-07:00
+SPX,daily,Strong Sell,2022-04-11 06:35:00-07:00
+SPX,weekly,Buy,2022-04-11 06:35:00-07:00
+DJA,daily,Sell,2022-04-11 06:35:00-07:00
+DJA,weekly,Neutral,2022-04-11 06:35:00-07:00
+SPX,daily,Strong Sell,2022-04-12 06:34:00-07:00
+SPX,weekly,Neutral,2022-04-12 06:34:00-07:00
+DJA,daily,Sell,2022-04-12 06:34:00-07:00
+DJA,weekly,Neutral,2022-04-12 06:34:00-07:00
+SPX,daily,Strong Sell,2022-04-14 06:35:00-07:00
+SPX,weekly,Neutral,2022-04-14 06:35:00-07:00
+DJA,daily,Strong Buy,2022-04-14 06:34:00-07:00
+DJA,weekly,Neutral,2022-04-14 06:35:00-07:00
+SPX,daily,Strong Sell,2022-04-14 12:59:00-07:00
+SPX,weekly,Sell,2022-04-14 12:59:00-07:00
+DJA,daily,Strong Sell,2022-04-14 13:48:00-07:00
+DJA,weekly,Neutral,2022-04-14 13:48:00-07:00
+SPX,daily,Strong Sell,2022-04-18 06:34:00-07:00
+SPX,weekly,Sell,2022-04-18 06:34:00-07:00
+DJA,daily,Sell,2022-04-18 06:34:00-07:00
+DJA,weekly,Neutral,2022-04-18 06:34:00-07:00
+SPX,daily,Strong Sell,2022-04-19 06:35:00-07:00
+SPX,weekly,Sell,2022-04-19 06:35:00-07:00
+DJA,daily,Strong Sell,2022-04-19 06:35:00-07:00
+DJA,weekly,Neutral,2022-04-19 06:35:00-07:00
+SPX,daily,Neutral,2022-04-20 06:34:00-07:00
+SPX,weekly,Neutral,2022-04-20 06:34:00-07:00
+DJA,daily,Strong Buy,2022-04-20 06:34:00-07:00
+DJA,weekly,Strong Buy,2022-04-20 06:34:00-07:00
+SPX,daily,Strong Buy,2022-04-21 06:34:00-07:00
+SPX,weekly,Strong Buy,2022-04-21 06:34:00-07:00
+DJA,daily,Strong Buy,2022-04-21 06:34:00-07:00
+DJA,weekly,Strong Buy,2022-04-21 06:34:00-07:00
+SPX,daily,Strong Sell,2022-04-22 06:34:00-07:00
+SPX,weekly,Sell,2022-04-22 06:34:00-07:00
+DJA,daily,Sell,2022-04-22 06:34:00-07:00
+DJA,weekly,Neutral,2022-04-22 06:34:00-07:00
+SPX,daily,Strong Sell,2022-04-25 06:34:00-07:00
+SPX,weekly,Strong Sell,2022-04-25 06:34:00-07:00
+DJA,daily,Strong Sell,2022-04-25 06:34:00-07:00
+DJA,weekly,Strong Sell,2022-04-25 06:34:00-07:00
+SPX,daily,Strong Sell,2022-04-26 06:34:00-07:00
+SPX,weekly,Strong Sell,2022-04-26 06:34:00-07:00
+DJA,daily,Strong Sell,2022-04-26 06:34:00-07:00
+DJA,weekly,Strong Sell,2022-04-26 06:34:00-07:00
+SPX,daily,Strong Sell,2022-04-27 06:34:00-07:00
+SPX,weekly,Strong Sell,2022-04-27 06:34:00-07:00
+DJA,daily,Strong Sell,2022-04-27 06:34:00-07:00
+DJA,weekly,Strong Sell,2022-04-27 06:34:00-07:00
+SPX,daily,Strong Sell,2022-04-28 06:35:00-07:00
+SPX,weekly,Strong Sell,2022-04-28 06:35:00-07:00
+DJA,daily,Strong Sell,2022-04-28 06:35:00-07:00
+DJA,weekly,Strong Sell,2022-04-28 06:35:00-07:00
+SPX,daily,Strong Sell,2022-04-29 06:36:00-07:00
+SPX,weekly,Strong Sell,2022-04-29 06:36:00-07:00
+DJA,daily,Strong Sell,2022-04-29 06:36:00-07:00
+DJA,weekly,Strong Sell,2022-04-29 06:36:00-07:00
+SPX,daily,Strong Sell,2022-05-02 06:35:00-07:00
+SPX,weekly,Strong Sell,2022-05-02 06:35:00-07:00
+DJA,daily,Strong Sell,2022-05-02 06:34:00-07:00
+DJA,weekly,Strong Sell,2022-05-02 06:35:00-07:00
+SPX,daily,Strong Sell,2022-05-03 06:34:00-07:00
+SPX,weekly,Strong Sell,2022-05-03 06:34:00-07:00
+DJA,daily,Strong Sell,2022-05-03 06:34:00-07:00
+DJA,weekly,Strong Sell,2022-05-03 06:34:00-07:00
+SPX,daily,Strong Sell,2022-05-04 06:35:00-07:00
+SPX,weekly,Strong Sell,2022-05-04 06:34:00-07:00
+DJA,daily,Strong Sell,2022-05-04 06:35:00-07:00
+DJA,weekly,Strong Sell,2022-05-04 06:35:00-07:00
+SPX,daily,Strong Sell,2022-05-05 06:34:00-07:00
+SPX,weekly,Strong Sell,2022-05-05 06:34:00-07:00
+DJA,daily,Sell,2022-05-05 06:34:00-07:00
+DJA,weekly,Strong Sell,2022-05-05 06:34:00-07:00
+SPX,daily,Strong Sell,2022-05-06 06:34:00-07:00
+SPX,weekly,Strong Sell,2022-05-06 06:34:00-07:00
+DJA,daily,Strong Sell,2022-05-06 06:34:00-07:00
+DJA,weekly,Strong Sell,2022-05-06 06:34:00-07:00
+SPX,daily,Strong Sell,2022-05-09 06:34:00-07:00
+SPX,weekly,Strong Sell,2022-05-09 06:34:00-07:00
+DJA,daily,Strong Sell,2022-05-09 06:34:00-07:00
+DJA,weekly,Strong Sell,2022-05-09 06:34:00-07:00
+SPX,daily,Strong Sell,2022-05-10 06:34:00-07:00
+SPX,weekly,Strong Sell,2022-05-10 06:34:00-07:00
+DJA,daily,Strong Sell,2022-05-10 06:34:00-07:00
+DJA,weekly,Strong Sell,2022-05-10 06:34:00-07:00
+SPX,daily,Strong Sell,2022-05-11 06:34:00-07:00
+SPX,weekly,Strong Sell,2022-05-11 06:34:00-07:00
+DJA,daily,Strong Sell,2022-05-11 06:34:00-07:00
+DJA,weekly,Strong Sell,2022-05-11 06:34:00-07:00
+SPX,daily,Strong Sell,2022-05-12 06:34:00-07:00
+SPX,weekly,Strong Sell,2022-05-12 06:34:00-07:00
+DJA,daily,Strong Sell,2022-05-12 06:34:00-07:00
+DJA,weekly,Strong Sell,2022-05-12 06:34:00-07:00
+SPX,daily,Strong Sell,2022-05-13 06:34:00-07:00
+SPX,weekly,Strong Sell,2022-05-13 06:34:00-07:00
+DJA,daily,Strong Sell,2022-05-13 06:34:00-07:00
+DJA,weekly,Strong Sell,2022-05-13 06:30:00-07:00
+SPX,daily,Strong Sell,2022-05-16 06:34:00-07:00
+SPX,weekly,Strong Sell,2022-05-16 06:34:00-07:00
+DJA,daily,Strong Sell,2022-05-16 06:34:00-07:00
+DJA,weekly,Strong Sell,2022-05-16 06:34:00-07:00
+SPX,daily,Strong Sell,2022-05-17 06:34:00-07:00
+SPX,weekly,Strong Sell,2022-05-17 06:34:00-07:00
+DJA,daily,Sell,2022-05-17 06:34:00-07:00
+DJA,weekly,Strong Sell,2022-05-17 06:34:00-07:00
+SPX,daily,Strong Sell,2022-05-18 06:34:00-07:00
+SPX,weekly,Strong Sell,2022-05-18 06:34:00-07:00
+DJA,daily,Strong Sell,2022-05-18 06:34:00-07:00
+DJA,weekly,Strong Sell,2022-05-18 06:34:00-07:00
+SPX,daily,Strong Sell,2022-05-19 06:34:00-07:00
+SPX,weekly,Strong Sell,2022-05-19 06:34:00-07:00
+DJA,daily,Strong Sell,2022-05-19 06:34:00-07:00
+DJA,weekly,Strong Sell,2022-05-19 06:34:00-07:00
+SPX,daily,Strong Sell,2022-05-20 06:34:00-07:00
+SPX,weekly,Strong Sell,2022-05-20 06:34:00-07:00
+DJA,daily,Strong Sell,2022-05-20 06:34:00-07:00
+DJA,weekly,Strong Sell,2022-05-20 06:34:00-07:00
+SPX,daily,Strong Sell,2022-05-23 06:34:00-07:00
+SPX,weekly,Strong Sell,2022-05-23 06:34:00-07:00
+DJA,daily,Strong Sell,2022-05-23 06:34:00-07:00
+DJA,weekly,Strong Sell,2022-05-23 06:34:00-07:00
+SPX,daily,Strong Sell,2022-05-24 06:34:00-07:00
+SPX,weekly,Strong Sell,2022-05-24 06:34:00-07:00
+DJA,daily,Strong Sell,2022-05-24 06:34:00-07:00
+DJA,weekly,Strong Sell,2022-05-24 06:34:00-07:00
+SPX,daily,Strong Sell,2022-05-25 06:34:00-07:00
+SPX,weekly,Strong Sell,2022-05-25 06:34:00-07:00
+DJA,daily,Strong Sell,2022-05-25 06:34:00-07:00
+DJA,weekly,Strong Sell,2022-05-25 06:34:00-07:00
+SPX,daily,Sell,2022-05-26 06:34:00-07:00
+SPX,weekly,Strong Sell,2022-05-26 06:34:00-07:00
+DJA,daily,Neutral,2022-05-26 06:34:00-07:00
+DJA,weekly,Strong Sell,2022-05-26 06:34:00-07:00
+SPX,daily,Buy,2022-05-27 14:49:00-07:00
+SPX,weekly,Sell,2022-05-27 14:49:00-07:00
+DJA,daily,Buy,2022-05-27 14:49:00-07:00
+DJA,weekly,Neutral,2022-05-27 14:49:00-07:00
+SPX,daily,Buy,2022-05-31 06:34:00-07:00
+SPX,weekly,Sell,2022-05-31 06:34:00-07:00
+DJA,daily,Buy,2022-05-31 06:34:00-07:00
+DJA,weekly,Sell,2022-05-31 06:34:00-07:00
+SPX,daily,Buy,2022-06-01 06:34:00-07:00
+SPX,weekly,Sell,2022-06-01 06:34:00-07:00
+DJA,daily,Strong Buy,2022-06-01 06:34:00-07:00
+DJA,weekly,Neutral,2022-06-01 06:34:00-07:00
+SPX,daily,Neutral,2022-06-02 06:34:00-07:00
+SPX,weekly,Strong Sell,2022-06-02 06:34:00-07:00
+DJA,daily,Neutral,2022-06-02 06:34:00-07:00
+DJA,weekly,Strong Sell,2022-06-02 06:34:00-07:00
+SPX,daily,Neutral,2022-06-03 06:34:00-07:00
+SPX,weekly,Sell,2022-06-03 06:34:00-07:00
+DJA,daily,Neutral,2022-06-03 06:34:00-07:00
+DJA,weekly,Sell,2022-06-03 06:34:00-07:00
+SPX,daily,Neutral,2022-06-07 06:34:00-07:00
+SPX,weekly,Strong Sell,2022-06-07 06:34:00-07:00
+DJA,daily,Neutral,2022-06-07 06:34:00-07:00
+DJA,weekly,Strong Sell,2022-06-07 06:34:00-07:00
+SPX,daily,Neutral,2022-06-08 06:34:00-07:00
+SPX,weekly,Sell,2022-06-08 06:34:00-07:00
+DJA,daily,Neutral,2022-06-08 06:34:00-07:00
+DJA,weekly,Sell,2022-06-08 06:34:00-07:00
+SPX,daily,Strong Sell,2022-06-10 06:34:00-07:00
+SPX,weekly,Strong Sell,2022-06-10 06:34:00-07:00
+DJA,daily,Strong Sell,2022-06-10 06:34:00-07:00
+DJA,weekly,Strong Sell,2022-06-10 06:34:00-07:00
+SPX,daily,Strong Sell,2022-06-14 06:34:00-07:00
+SPX,weekly,Strong Sell,2022-06-14 06:34:00-07:00
+DJA,daily,Strong Sell,2022-06-14 06:34:00-07:00
+DJA,weekly,Strong Sell,2022-06-14 06:34:00-07:00
+SPX,daily,Strong Sell,2022-06-22 06:35:00-07:00
+SPX,weekly,Strong Sell,2022-06-22 06:35:00-07:00
+DJA,daily,Strong Sell,2022-06-22 06:34:00-07:00
+DJA,weekly,Strong Sell,2022-06-22 06:34:00-07:00
+SPX,daily,Sell,2022-06-24 06:34:00-07:00
+SPX,weekly,Strong Sell,2022-06-24 06:34:00-07:00
+DJA,daily,Sell,2022-06-24 06:34:00-07:00
+DJA,weekly,Strong Sell,2022-06-24 06:34:00-07:00
+SPX,daily,Neutral,2022-06-27 06:34:00-07:00
+SPX,weekly,Strong Sell,2022-06-27 06:34:00-07:00
+DJA,daily,Neutral,2022-06-27 06:34:00-07:00
+DJA,weekly,Strong Sell,2022-06-27 06:34:00-07:00
+SPX,daily,Buy,2022-06-28 06:34:00-07:00
+SPX,weekly,Strong Sell,2022-06-28 06:34:00-07:00
+DJA,daily,Neutral,2022-06-28 06:34:00-07:00
+DJA,weekly,Strong Sell,2022-06-28 06:34:00-07:00
+SPX,daily,Strong Sell,2022-06-29 06:35:00-07:00
+SPX,weekly,Strong Sell,2022-06-29 06:35:00-07:00
+DJA,daily,Strong Sell,2022-06-29 06:34:00-07:00
+DJA,weekly,Strong Sell,2022-06-29 06:34:00-07:00
+SPX,daily,Strong Sell,2022-06-30 06:34:00-07:00
+SPX,weekly,Strong Sell,2022-06-30 06:34:00-07:00
+DJA,daily,Strong Sell,2022-06-30 06:34:00-07:00
+DJA,weekly,Strong Sell,2022-06-30 06:34:00-07:00
+SPX,daily,Strong Sell,2022-07-01 06:34:00-07:00
+SPX,weekly,Strong Sell,2022-07-01 06:34:00-07:00
+DJA,daily,Strong Sell,2022-07-01 06:33:00-07:00
+DJA,weekly,Strong Sell,2022-07-01 06:33:00-07:00
+SPX,daily,Strong Sell,2022-07-01 14:45:00-07:00
+SPX,weekly,Strong Sell,2022-07-01 14:45:00-07:00
+DJA,daily,Sell,2022-07-01 14:45:00-07:00
+DJA,weekly,Strong Sell,2022-07-01 14:45:00-07:00
+SPX,daily,Strong Sell,2022-07-05 06:34:00-07:00
+SPX,weekly,Strong Sell,2022-07-05 06:34:00-07:00
+DJA,daily,Strong Sell,2022-07-05 06:34:00-07:00
+DJA,weekly,Strong Sell,2022-07-05 06:34:00-07:00
+SPX,daily,Buy,2022-07-07 06:34:00-07:00
+SPX,weekly,Strong Sell,2022-07-07 06:34:00-07:00
+DJA,daily,Neutral,2022-07-07 06:34:00-07:00
+DJA,weekly,Strong Sell,2022-07-07 06:34:00-07:00
+SPX,daily,Buy,2022-07-08 06:34:00-07:00
+SPX,weekly,Strong Sell,2022-07-08 06:34:00-07:00
+DJA,daily,Buy,2022-07-08 06:34:00-07:00
+DJA,weekly,Strong Sell,2022-07-08 06:34:00-07:00
+SPX,daily,Buy,2022-07-11 06:34:00-07:00
+SPX,weekly,Strong Sell,2022-07-11 06:34:00-07:00
+DJA,daily,Buy,2022-07-11 06:34:00-07:00
+DJA,weekly,Strong Sell,2022-07-11 06:35:00-07:00
+SPX,daily,Neutral,2022-07-12 06:34:00-07:00
+SPX,weekly,Strong Sell,2022-07-12 06:34:00-07:00
+DJA,daily,Neutral,2022-07-12 06:34:00-07:00
+DJA,weekly,Strong Sell,2022-07-12 06:34:00-07:00
+SPX,daily,Strong Sell,2022-07-13 06:35:00-07:00
+SPX,weekly,Strong Sell,2022-07-13 06:34:00-07:00
+DJA,daily,Strong Sell,2022-07-13 06:35:00-07:00
+DJA,weekly,Strong Sell,2022-07-13 06:34:00-07:00
+SPX,daily,Neutral,2022-07-15 06:34:00-07:00
+SPX,weekly,Strong Sell,2022-07-15 06:34:00-07:00
+DJA,daily,Sell,2022-07-15 06:34:00-07:00
+DJA,weekly,Strong Sell,2022-07-15 06:34:00-07:00
+SPX,daily,Buy,2022-07-18 06:34:00-07:00
+SPX,weekly,Strong Sell,2022-07-18 06:34:00-07:00
+DJA,daily,Neutral,2022-07-18 06:34:00-07:00
+DJA,weekly,Sell,2022-07-18 06:34:00-07:00
+SPX,daily,Buy,2022-07-19 06:34:00-07:00
+SPX,weekly,Strong Sell,2022-07-19 06:34:00-07:00
+DJA,daily,Neutral,2022-07-19 06:34:00-07:00
+DJA,weekly,Strong Sell,2022-07-19 06:34:00-07:00
+SPX,daily,Strong Buy,2022-07-20 06:34:00-07:00
+SPX,weekly,Strong Sell,2022-07-20 06:34:00-07:00
+DJA,daily,Strong Buy,2022-07-20 06:34:00-07:00
+DJA,weekly,Sell,2022-07-20 06:34:00-07:00
+SPX,daily,Strong Buy,2022-07-21 06:34:00-07:00
+SPX,weekly,Strong Sell,2022-07-21 06:34:00-07:00
+DJA,daily,Buy,2022-07-21 06:34:00-07:00
+DJA,weekly,Sell,2022-07-21 06:34:00-07:00
+SPX,daily,Strong Buy,2022-07-22 06:34:00-07:00
+SPX,weekly,Sell,2022-07-22 06:34:00-07:00
+DJA,daily,Strong Buy,2022-07-22 06:34:00-07:00
+DJA,weekly,Neutral,2022-07-22 06:34:00-07:00
+SPX,daily,Buy,2022-07-26 06:34:00-07:00
+SPX,weekly,Sell,2022-07-26 06:34:00-07:00
+DJA,daily,Strong Buy,2022-07-26 06:34:00-07:00
+DJA,weekly,Neutral,2022-07-26 06:34:00-07:00
+SPX,daily,Strong Buy,2022-07-28 06:34:00-07:00
+SPX,weekly,Neutral,2022-07-28 06:34:00-07:00
+DJA,daily,Strong Buy,2022-07-28 06:34:00-07:00
+DJA,weekly,Neutral,2022-07-28 06:34:00-07:00
+SPX,daily,Strong Buy,2022-07-29 06:34:00-07:00
+SPX,weekly,Neutral,2022-07-29 06:34:00-07:00
+DJA,daily,Strong Buy,2022-07-29 06:34:00-07:00
+DJA,weekly,Neutral,2022-07-29 06:34:00-07:00
+SPX,daily,Strong Buy,2022-08-01 06:34:00-07:00
+SPX,weekly,Strong Buy,2022-08-01 06:34:00-07:00
+DJA,daily,Strong Buy,2022-08-01 06:34:00-07:00
+DJA,weekly,Buy,2022-08-01 06:34:00-07:00
+SPX,daily,Strong Buy,2022-08-02 06:34:00-07:00
+SPX,weekly,Strong Buy,2022-08-02 06:34:00-07:00
+DJA,daily,Strong Buy,2022-08-02 06:34:00-07:00
+DJA,weekly,Buy,2022-08-02 06:34:00-07:00
+SPX,daily,Strong Buy,2022-08-04 06:34:00-07:00
+SPX,weekly,Strong Buy,2022-08-04 06:34:00-07:00
+DJA,daily,Strong Buy,2022-08-04 06:34:00-07:00
+DJA,weekly,Buy,2022-08-04 06:34:00-07:00
+SPX,daily,Strong Buy,2022-08-05 06:34:00-07:00
+SPX,weekly,Strong Buy,2022-08-05 06:34:00-07:00
+DJA,daily,Buy,2022-08-05 06:34:00-07:00
+DJA,weekly,Buy,2022-08-05 06:34:00-07:00
+SPX,daily,Strong Buy,2022-08-08 06:34:00-07:00
+SPX,weekly,Strong Buy,2022-08-08 06:34:00-07:00
+DJA,daily,Strong Buy,2022-08-08 06:34:00-07:00
+DJA,weekly,Buy,2022-08-08 06:34:00-07:00
+SPX,daily,Strong Buy,2022-08-09 06:34:00-07:00
+SPX,weekly,Strong Buy,2022-08-09 06:34:00-07:00
+DJA,daily,Strong Buy,2022-08-09 06:34:00-07:00
+DJA,weekly,Buy,2022-08-09 06:34:00-07:00
+SPX,daily,Strong Buy,2022-08-10 06:34:00-07:00
+SPX,weekly,Strong Buy,2022-08-10 06:34:00-07:00
+DJA,daily,Strong Buy,2022-08-10 06:34:00-07:00
+DJA,weekly,Strong Buy,2022-08-10 06:34:00-07:00
+SPX,daily,Strong Buy,2022-08-12 06:34:00-07:00
+SPX,weekly,Strong Buy,2022-08-12 06:34:00-07:00
+DJA,daily,Strong Buy,2022-08-12 06:34:00-07:00
+DJA,weekly,Strong Buy,2022-08-12 06:34:00-07:00
+SPX,daily,Strong Buy,2022-08-16 06:34:00-07:00
+SPX,weekly,Strong Buy,2022-08-16 06:34:00-07:00
+DJA,daily,Strong Buy,2022-08-16 06:34:00-07:00
+DJA,weekly,Strong Buy,2022-08-16 06:34:00-07:00
+SPX,daily,Strong Buy,2022-08-19 06:34:00-07:00
+SPX,weekly,Strong Buy,2022-08-19 06:34:00-07:00
+DJA,daily,Strong Buy,2022-08-19 06:34:00-07:00
+DJA,weekly,Strong Buy,2022-08-19 06:34:00-07:00
+SPX,daily,Neutral,2022-08-22 06:34:00-07:00
+SPX,weekly,Strong Buy,2022-08-22 06:34:00-07:00
+DJA,daily,Buy,2022-08-22 06:34:00-07:00
+DJA,weekly,Strong Buy,2022-08-22 06:34:00-07:00
+SPX,daily,Strong Sell,2022-08-23 06:34:00-07:00
+SPX,weekly,Strong Buy,2022-08-23 06:34:00-07:00
+DJA,daily,Sell,2022-08-23 06:34:00-07:00
+DJA,weekly,Strong Buy,2022-08-23 06:34:00-07:00
+SPX,daily,Strong Sell,2022-08-25 06:34:00-07:00
+SPX,weekly,Strong Buy,2022-08-25 06:34:00-07:00
+DJA,daily,Sell,2022-08-25 06:34:00-07:00
+DJA,weekly,Strong Buy,2022-08-25 06:34:00-07:00
+SPX,daily,Neutral,2022-08-26 06:34:00-07:00
+SPX,weekly,Strong Buy,2022-08-26 06:34:00-07:00
+DJA,daily,Strong Buy,2022-08-26 06:34:00-07:00
+DJA,weekly,Strong Buy,2022-08-26 06:34:00-07:00
+SPX,daily,Strong Sell,2022-08-29 06:34:00-07:00
+SPX,weekly,Sell,2022-08-29 06:34:00-07:00
+DJA,daily,Strong Sell,2022-08-29 06:34:00-07:00
+DJA,weekly,Strong Sell,2022-08-29 06:34:00-07:00
+SPX,daily,Strong Sell,2022-08-31 06:34:00-07:00
+SPX,weekly,Strong Sell,2022-08-31 06:34:00-07:00
+DJA,daily,Strong Sell,2022-08-31 06:34:00-07:00
+DJA,weekly,Strong Sell,2022-08-31 06:34:00-07:00
+SPX,daily,Strong Sell,2022-09-01 06:34:00-07:00
+SPX,weekly,Strong Sell,2022-09-01 06:34:00-07:00
+DJA,daily,Strong Sell,2022-09-01 06:34:00-07:00
+DJA,weekly,Strong Sell,2022-09-01 06:34:00-07:00
+SPX,daily,Strong Sell,2022-09-02 06:34:00-07:00
+SPX,weekly,Strong Sell,2022-09-02 06:34:00-07:00
+DJA,daily,Strong Sell,2022-09-02 06:34:00-07:00
+DJA,weekly,Strong Sell,2022-09-02 06:34:00-07:00
+SPX,daily,Strong Sell,2022-09-02 14:00:00-07:00
+SPX,weekly,Strong Sell,2022-09-02 14:00:00-07:00
+DJA,daily,Strong Sell,2022-09-02 14:00:00-07:00
+DJA,weekly,Strong Sell,2022-09-02 14:00:00-07:00
+SPX,daily,Strong Sell,2022-09-06 06:34:00-07:00
+SPX,weekly,Strong Sell,2022-09-06 06:34:00-07:00
+DJA,daily,Strong Sell,2022-09-06 06:34:00-07:00
+DJA,weekly,Strong Sell,2022-09-06 06:34:00-07:00
