@@ -41,13 +41,6 @@ This project is completed using SQL and Pandas, Matplotlib libraries. I explored
 The script is used to scrape the technical analysis signals from www.investing.com. In the script, I have used `Requests` library to generate dynamic response html page and `BeautifulSoup` to parse the responses. The scraped TA signals are then appended to the previous result in the local data file.
 
 
-### Old Data Cleaning and Wrangling Projects
-
-[Data Cleaning and Wrangling Projects done for my old job](https://github.com/catelinn/data-analysis-portfolio/tree/master/projects/data%20cleaning%20and%20wrangling%20at%20old%20job)
-
-I used to work at a branch office of an IP law firm. In that job, I was handed client contacts and cases datasets for all sorts of reporting purposes, most of them require a lot of fixups. I used Python to automate the data cleaning and data transformation processes. The works saved in this folder contain only the codes and limited data that won't disclose the non-private client information and market performance of my previous employer.
-
-
 
 # Certificates
 
