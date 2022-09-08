@@ -1,6 +1,6 @@
 # About me
 
-I have experience in marketing, business administration and project management roles. But I’m looking to focus my skills and knowledge on analyst position where my analytical and hands-on mentality can shine. 
+I have extensive experience in marketing, business administration and project management roles. But I’m looking to focus my skills and knowledge on analyst position where my analytical and hands-on mentality can shine. 
 
 ##### RELEVANT QUALIFICATIONS
 
@@ -8,8 +8,6 @@ I have experience in marketing, business administration and project management r
 - Solid knowledge of data analysis topics, such as probability and statistics, hypothesis testing and linear regression. 
 - Proficient in exporatory data analysis (EDA) and visualization using Python, SQL, Excel and Power BI.
 - Excellent communicator and coordinator that works well with all levels of stakeholders, technical or non-technical.
-
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 
 
 # Data Analysis Projects
