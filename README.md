@@ -9,7 +9,7 @@ I have experience in marketing, business administration and project management r
 - Proficient in exporatory data analysis (EDA) and visualization using Python, SQL, Excel and Power BI.
 - Excellent communicator and coordinator that works well with all levels of stakeholders, technical or non-technical.
 
-
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 
 
 # Data Analysis Projects
